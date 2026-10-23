@@ -1,4 +1,4 @@
-# EnglishPod 1–100 学习资料
+# EnglishPod 1–150 学习资料
 
 面向 CET-4 水平的精读笔记，每课包含：对话原文 · 逐句对照翻译 · 核心生词短语（音标/用法/例句）· 重点句型 · 补充词汇 · 讲解拓展 · 小练习（附答案）· 学习建议。
 
@@ -104,6 +104,56 @@
 | 98 | [Flattering（互相恭维）](Lesson-098-Flattering.md) | Intermediate（中级）　Daily Life 日常生活（两位多年不见的女士街头偶遇，互相疯狂恭维，转身就吐槽对方） |
 | 99 | [Movie Review（电影评论）](Lesson-099-Movie-Review.md) | Advanced（高级）　Global View 影视评论（影评节目中两位影评人争论《狮子王》） |
 | 100 | [Where Are You From?（你从哪儿来？）](Lesson-100-Where-Are-You-From.md) | Intermediate（中级）　Daily Life 日常生活（出租车司机与女乘客一路闲聊） |
+| 101 | [1970's（七十年代俚语）](Lesson-101-1970s.md) | Intermediate（中级）　The Weekend（两个哥们儿周末闲聊，全程 1970 年代俚语） |
+| 102 | [Global Warming（全球变暖）](Lesson-102-Global-Warming.md) | Advanced（高级）　Global View（大学讲座 Q&A：质疑"全球变冷"教授） |
+| 103 | [Baby, I'm Sorry（宝贝，对不起）](Lesson-103-Baby-Im-Sorry.md) | Intermediate（中级）　Daily Life 日常生活（情侣摊牌／感情危机） |
+| 104 | [Skiing（滑雪）](Lesson-104-Skiing.md) | Advanced（高级）　The Weekend（电视滑雪特别节目 / 滑雪场入门教学） |
+| 105 | [Job Well Done（干得漂亮）](Lesson-105-Job-Well-Done.md) | Intermediate（中级）　The Office 办公室（经理在演示结束后表扬员工） |
+| 106 | [Mobile Phone Plan（办理手机套餐）](Lesson-106-Mobile-Phone-Plan.md) | Intermediate（中级）　Daily Life 日常生活（手机店办套餐） |
+| 107 | [Complaining at a Restaurant（在餐厅投诉）](Lesson-107-Complaining-at-a-Restaurant.md) | Intermediate（中级）　Daily Life 日常生活（西餐厅投诉、退菜） |
+| 108 | [Bad News, Boss（坏消息，老板）](Lesson-108-Bad-News-Boss.md) | Intermediate（中级，C 级）　The Office（下属向老板汇报经营噩耗） |
+| 109 | [Breaking Up（分手）](Lesson-109-Breaking-Up.md) | Intermediate（中级，C 级）　The Weekend（情侣摊牌／女方提出分手） |
+| 110 | [Registering for University（大学注册选课）](Lesson-110-Registering-for-University.md) | Intermediate（中级）　Daily Life 日常生活（大学注册选课） |
+| 111 | [Golf（高尔夫球赛解说）](Lesson-111-Golf.md) | Intermediate（中级）　The Weekend（高尔夫球赛现场转播解说） |
+| 112 | [Dr. Plumber（水管工"大夫"）](Lesson-112-Dr-Plumber.md) | Intermediate（中级）　Daily Life 日常生活（家里管道漏水，水管工上门检修） |
+| 113 | [Sorry I'm Late（对不起，我迟到了）](Lesson-113-Sorry-Im-Late.md) | Intermediate（中级，C 级）　The Office（开会迟到、向老板道歉并解释原因） |
+| 114 | [The Weekend - 1980's（回到 20 世纪 80 年代）](Lesson-114-The-Weekend-1980s.md) | Intermediate（中级）　The Weekend 周末系列——80 年代美国高中停车场，两个损友品评老爷车、整蛊开豪车的富家同学 |
+| 115 | [I Don't Feel So Good（我感觉糟透了）](Lesson-115-I-Dont-Feel-So-Good.md) | Intermediate（中级）　Daily Life 日常生活（朋友间聊宿醉、翘班） |
+| 116 | [You Missed The Deadline!（你错过最后期限了！）](Lesson-116-You-Missed-The-Deadline.md) | Advanced（高级）　The Office 办公室（老板问责错过截止日期的员工） |
+| 117 | [I'm Sorry I Love You IX（对不起，我爱你 第九集）](Lesson-117-Im-Sorry-I-Love-You-IX.md) | Intermediate（中级）　The Weekend 情感生活——车旁摊牌与机场诀别：Steven 坦白间谍身份后向 Veronica 求婚被拒，独自飞回印度 |
+| 118 | [Baby Talk（宝宝话）](Lesson-118-Baby-Talk.md) | Intermediate（中级）　Daily Life 日常生活（新手父母半夜起来给宝宝换尿布） |
+| 119 | [Being Scared（胆小鬼闯鬼屋）](Lesson-119-Being-Scared.md) | Intermediate（中级）　The Weekend 周末系列——一座"闹鬼"的大豪宅，四个角色壮着胆子进去调查鬼魂 |
+| 120 | [Boxing（拳击比赛）](Lesson-120-Boxing.md) | Intermediate（中级）　The Weekend 周末生活（拳击赛现场解说） |
+| 121 | [Presidential Speech（总统告别演说）](Lesson-121-Presidential-Speech.md) | Advanced（高级）　Global View 全球视野（美国总统卸任告别演说） |
+| 122 | [Supermarket Cashier（超市收银员）](Lesson-122-Supermarket-Cashier.md) | Elementary（初级）　Daily Life 日常生活（超市结账） |
+| 123 | [The Weekend - 1990's（回到 20 世纪 90 年代）](Lesson-123-The-Weekend-1990s.md) | Intermediate（中级）　The Weekend 周末系列——90 年代美国商场/校园，三个哥们儿碰面：四眼儿炫新球鞋、吐槽吃醋女友，挂科的 Mad Max 怕老爸发飙 |
+| 124 | [Tools（干活的工具）](Lesson-124-Tools.md) | Elementary（初级）　Daily Life 日常生活（一天之内在后院搭建木露台的工地） |
+| 125 | [No Smoking!（不许抽烟！）](Lesson-125-No-Smoking.md) | Intermediate（中级）　Daily Life 日常生活（妻子抽烟，夫妻因戒烟争吵） |
+| 126 | [The Weekend - That's Funny!（周末专场：这也叫笑话？）](Lesson-126-Thats-Funny.md) | Intermediate（中级）　The Weekend 周末系列——俱乐部"开放麦之夜"，一名单口喜剧演员连讲五个冷笑话，被台下观众起哄轰下台 |
+| 127 | [I Love That Song（我爱那首歌！）](Lesson-127-I-Love-That-Song.md) | Intermediate（中级）　The Weekend（音乐知识竞赛节目） |
+| 128 | [I'm Sorry I Love You X（对不起，我爱你 第十集·大结局）](Lesson-128-Im-Sorry-I-Love-You-X.md) | Intermediate（中级）　Daily Life 日常生活——印度家中团聚：哥哥报喜劝婚、母亲迎接、Veronica 追到印度反向求婚，牧师证婚大团圆结局 |
+| 129 | [Presidential Speech II（总统告别演说·下）](Lesson-129-Presidential-Speech-II.md) | Advanced（高级）　Global View 全球视野（美国总统卸任告别演说·下篇） |
+| 130 | [Going To The Gym（去健身房）](Lesson-130-Going-To-The-Gym.md) | Intermediate（中级）　Daily Life 日常生活（健身房新手求教） |
+| 131 | [What if? Part 1（假如……？（上））](Lesson-131-What-if-Part-1.md) | Intermediate（中级）　Daily Life 日常生活（朋友之间玩"What if?"假设问答游戏） |
+| 132 | [Mechanic（修车）](Lesson-132-Mechanic.md) | Intermediate（中级）　Daily Life 日常生活（修车厂报修） |
+| 133 | [Doing Laundry（洗衣服）](Lesson-133-Doing-Laundry.md) | Intermediate（中级）　Daily Life 日常生活（在家学用洗衣机） |
+| 134 | [Buying a TV（买电视）](Lesson-134-Buying-a-TV.md) | Intermediate（中级）　Daily Life 日常生活（电器店选购电视） |
+| 135 | [Cheer Up（振作起来）](Lesson-135-Cheer-Up.md) | Intermediate（中级）　Daily Life 日常生活（闺蜜间倾诉男友脾气差、互相安慰） |
+| 136 | [Gambling（赌博）](Lesson-136-Gambling.md) | Upper-Intermediate（中高级）　Global View（市民热议：赌博该不该合法化） |
+| 137 | [Getting Internet Service（办理宽带上网服务）](Lesson-137-Getting-Internet-Service.md) | Intermediate（中级）　Daily Life 日常生活（到营业厅/打电话办理宽带套餐） |
+| 138 | [Renting A Car（租车）](Lesson-138-Renting-A-Car.md) | Elementary（初级）　Daily Life 日常生活（租车柜台投诉） |
+| 139 | [Playing Chess（下国际象棋）](Lesson-139-Playing-Chess.md) | Intermediate（中级）　The Weekend（爸爸教儿子下国际象棋） |
+| 140 | [Buying a Computer（买电脑）](Lesson-140-Buying-a-Computer.md) | Intermediate（中级）　Daily Life 日常生活（电脑店：旧机维修被劝购新机） |
+| 141 | [What If? Part 2（假如……？（下））](Lesson-141-What-If-Part-2.md) | Intermediate（中级）　Daily Life 日常生活（两位中年好友喝着啤酒，聊"如果当年选择不同，人生会怎样"） |
+| 142 | [What Do I Wear?（我该穿什么？）](Lesson-142-What-Do-I-Wear.md) | Upper-Intermediate（中高级）　The Weekend 周末生活（出门赴宴前，妻子帮丈夫搭配衣服） |
+| 143 | [The Butcher（肉铺买肉）](Lesson-143-The-Butcher.md) | Intermediate（中级）　Daily Life（肉铺/熟食柜台买肉） |
+| 144 | [Capital Punishment（死刑）](Lesson-144-Capital-Punishment.md) | Upper-Intermediate（中高级）　Global View（课堂辩论：该不该恢复死刑、对犯罪加重刑罚） |
+| 145 | [Chicken Pox（水痘）](Lesson-145-Chicken-Pox.md) | Elementary（初级）　Daily Life 日常生活（朋友间发现疑似水痘） |
+| 146 | [Animal Rights（动物权利）](Lesson-146-Animal-Rights.md) | Upper-Intermediate（中高级）　Global View 社会议题辩论（动物权利 vs 人权） |
+| 147 | [The Argument（一场争吵）](Lesson-147-The-Argument.md) | Upper-Intermediate（中高级）　Daily Life（情侣看完电影后吵架） |
+| 148 | [Paranoid（疑神疑鬼）](Lesson-148-Paranoid.md) | Intermediate（中级）　Daily Life 日常生活（朋友家中谈隐私与安全） |
+| 149 | [Moving（搬家）](Lesson-149-Moving.md) | Intermediate（中级）　Daily Life 日常生活（租约到期被迫搬家，请朋友帮忙照看宠物） |
+| 150 | [Bug Spray（驱蚊水）](Lesson-150-Bug-Spray.md) | Elementary（初级）　The Weekend 周末生活（被蚊子叮咬，朋友间打趣想"偏方"） |
 
 ## 使用建议
 
