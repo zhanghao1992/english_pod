@@ -1,4 +1,4 @@
-# EnglishPod 1–200 学习资料
+# EnglishPod 1–250 学习资料
 
 面向 CET-4 水平的精读笔记，每课包含：对话原文 · 逐句对照翻译 · 核心生词短语（音标/用法/例句）· 重点句型 · 补充词汇 · 讲解拓展 · 小练习（附答案）· 学习建议。
 
@@ -204,6 +204,56 @@
 | 198 | [Applying CPR（实施心肺复苏术）](Lesson-198-Applying-CPR.md) | Intermediate（中级）　Daily Life 日常生活（CPR 急救培训课） |
 | 199 | [Global View – Learning About First Aid（环球视野：学习急救）](Lesson-199-Global-View-Learning-About-First-Aid.md) | Intermediate（中级）　Global View（健康话题：朋友聊在红十字会上急救课、随急救人员出勤的见闻） |
 | 200 | [Junk Food（垃圾食品）](Lesson-200-Junk-Food.md) | Intermediate（中级）　Daily Life 日常生活（朋友间争论健康饮食） |
+| 201 | [At The Post Office（在邮局寄包裹）](Lesson-201-At-The-Post-Office.md) | Elementary（初级）　Daily Life 日常生活（邮局寄包裹） |
+| 202 | [Asking For Directions（问路）](Lesson-202-Asking-For-Directions.md) | Intermediate（中级）　The Weekend 周末时光（开车迷路、当街问路） |
+| 203 | [Calling Tech Support（打电话找技术支持）](Lesson-203-Calling-Tech-Support.md) | Elementary（初级）　Daily Life 日常生活（电脑出故障，拨打技术支持热线求助） |
+| 204 | [Global View – Understanding a Trial（环球视野：了解法庭审判）](Lesson-204-Global-View-Understanding-a-Trial.md) | Intermediate（中级）　Global View（法庭戏：辩护律师结辩、陪审团裁决、胜诉后的神反转） |
+| 205 | [Closing The Deal（签下这单生意）](Lesson-205-Closing-The-Deal.md) | Upper-Intermediate（中高级）　The Office（商务洽谈：向餐厅推销精品巧克力） |
+| 206 | [Talking To Your Roommate（和室友谈谈）](Lesson-206-Talking-To-Your-Roommate.md) | Elementary（初级）　Daily Life 日常生活（室友分摊账单起争执） |
+| 207 | [Shopping Online（网上购物）](Lesson-207-Shopping-Online.md) | Elementary（初级）　Daily Life 日常生活（朋友聊网购） |
+| 208 | [Global View – Understanding The Stock Market（环球视野：读懂股市）](Lesson-208-Global-View-Understanding-The-Stock-Market.md) | Upper-Intermediate（中高级）　Global View（财经话题：股市暴跌后，投资顾问向老板紧急汇报亏损并提出止损方案） |
+| 209 | [Office Gossip（办公室八卦）](Lesson-209-Office-Gossip.md) | Elementary（初级）　Daily Life（办公室八卦） |
+| 210 | [Meeting the In-laws（第一次拜见岳父母）](Lesson-210-Meeting-the-In-laws.md) | Intermediate（中级）　Daily Life（上门拜见未婚妻父母） |
+| 211 | [Playing Board Games（玩桌游）](Lesson-211-Playing-Board-Games.md) | Elementary（初级）　The Weekend 周末时光（在家玩大富翁起争执） |
+| 212 | [Global View – Last Will and Testament（环球视野：最后的遗嘱）](Lesson-212-Global-View-Last-Will-and-Testament.md) | Intermediate（中级）　Global View（法律文书：立遗嘱人当众宣读自己的最后遗嘱——遗体处置、遗产分配、指定遗嘱执行人） |
+| 213 | [Funeral Arrangements（葬礼安排）](Lesson-213-Funeral-Arrangements.md) | Intermediate（中级）　Daily Life（慰问逝者家属、筹备葬礼） |
+| 214 | [Describing Personalities（描述性格）](Lesson-214-Describing-Personalities.md) | Intermediate（中级）　Daily Life 日常生活（课堂性格测试） |
+| 215 | [At the Deli（去熟食店采购）](Lesson-215-At-the-Deli.md) | Intermediate（中级）　The Weekend（周末聚会前，妻子打发丈夫去熟食店采购） |
+| 216 | [Health Food（健康食品之争）](Lesson-216-Health-Food.md) | Intermediate（中级）　Daily Life 日常生活（超市采购后，小两口为"吃什么"拌嘴） |
+| 217 | [Volunteering（志愿服务）](Lesson-217-Volunteering.md) | Intermediate（中级）　Global View（社区志愿服务 / 施粥所） |
+| 218 | [Divorce（离婚）](Lesson-218-Divorce.md) | Upper-Intermediate（中高级）　Daily Life 日常生活（夫妻协议离婚、分割财产） |
+| 219 | [Baby Shower（迎婴派对）](Lesson-219-Baby-Shower.md) | Elementary（初级）　Global View 全球视野（迎婴派对上拆礼物） |
+| 220 | [New Furniture（买新家具）](Lesson-220-New-Furniture.md) | Intermediate（中级）　Daily Life（情侣逛家具店） |
+| 221 | [Car Trouble（汽车出故障了）](Lesson-221-Car-Trouble.md) | Intermediate（中级）　Daily Life 日常生活（汽车故障求助电话） |
+| 222 | [Carbon Footprint（碳足迹）](Lesson-222-Carbon-Footprint.md) | Advanced（高级）　Global View 全球视野（朋友间争论全球变暖与环保生活方式） |
+| 223 | [Facial Hair（面部胡须）](Lesson-223-Facial-Hair.md) | Elementary（初级）　Daily Life 日常生活（警局模拟画像，目击者描述抢匪外貌） |
+| 224 | [Global View – Crime Scene（环球视野：犯罪现场）](Lesson-224-Global-View-Crime-Scene.md) | Upper-Intermediate（中高级）　Global View（犯罪现场勘查：探长带队在 Bear 家调查一桩离奇入室案，戏仿童话《金凤花姑娘和三只熊》） |
+| 225 | [Planning A Crime（策划劫案）](Lesson-225-Planning-A-Crime.md) | Advanced（高级）　The Weekend（策划抢劫银行） |
+| 226 | [Global View – Fundraiser（环球视野：上门募捐）](Lesson-226-Global-View-Fundraiser.md) | Intermediate（中级）　Global View 全球视野（两个七年级学生挨家挨户为学校募捐，结果撞上"禁止推销"告示牌） |
+| 227 | [Wedding Planning（婚礼策划）](Lesson-227-Wedding-Planning.md) | Intermediate（中级）　Daily Life 日常生活（求婚成功后新娘一口气规划整场婚礼） |
+| 228 | [Going to the Beach（去海滩）](Lesson-228-Going-to-the-Beach.md) | Intermediate（中级）　The Weekend（一家人周末去海边） |
+| 229 | [Buying Men's Shoes（买男鞋）](Lesson-229-Buying-Mens-Shoes.md) | Upper-Intermediate（中高级）　Daily Life 日常生活（妈妈带儿子在鞋店买鞋） |
+| 230 | [Gardening（打理花园）](Lesson-230-Gardening.md) | Intermediate（中级）　The Weekend 周末时光（朋友间打趣"纸上谈兵"开花园） |
+| 231 | [Buying Women's Shoes（买女鞋）](Lesson-231-Buying-Womens-Shoes.md) | Intermediate（中级）　Daily Life 日常生活（鞋店购物） |
+| 232 | [Toys（玩具）](Lesson-232-Toys.md) | Intermediate（中级）　Daily Life 日常生活（看电视里的玩具广告） |
+| 233 | [Forex（外汇交易）](Lesson-233-Forex.md) | Upper-Intermediate（中高级）　Global View 全球视野（老友重逢，聊起炒外汇） |
+| 234 | [Going to the Doctor（看医生）](Lesson-234-Going-to-the-Doctor.md) | Intermediate（中级）　Daily Life 日常生活（感冒就医：医生问诊检查、开药、叮嘱休息并开病假条） |
+| 235 | [Interview Skills Part 1 — The Introduction（面试技巧（上）：开场介绍）](Lesson-235-Interview-Skills-Part-1-The-Introduction.md) | Intermediate（中级，C 系列）　The Office（求职面试·进门寒暄） |
+| 236 | [Trying To Sleep（睡不着觉）](Lesson-236-Trying-To-Sleep.md) | Intermediate（中级）　Daily Life 日常生活（失眠求助 / 朋友支招） |
+| 237 | [Morning Routine（晨间例行公事）](Lesson-237-Morning-Routine.md) | Intermediate（中级）　Daily Life 日常生活（同学闲聊早上的出门准备） |
+| 238 | [Interview Skills Part 2 — Discussing Your Background（面试技巧（中）：谈谈你的背景）](Lesson-238-Interview-Skills-Part-2-Discussing-Your-Background.md) | Intermediate（中级，C 级；注：节目开场主持人口播称本课为 elementary level，此依 PDF 编号 C0238 归入 C 级 Intermediate）　The Office（求职面试·介绍个人成长背景） |
+| 239 | [Adventure Sports（冒险运动）](Lesson-239-Adventure-Sports.md) | Intermediate（中级）　The Weekend（在旅行社预订冒险运动行程） |
+| 240 | [Getting A Pet（养宠物）](Lesson-240-Getting-A-Pet.md) | Intermediate（中级）　Daily Life（情侣/夫妻在家争论要不要养宠物） |
+| 241 | [Interview Skills 3 — Education Background（面试技巧（三）：教育背景）](Lesson-241-Interview-Skills-3-Education-Background.md) | Intermediate（中级，C 级；注：节目开场主持人口播称本课为 elementary level，此依 PDF 编号 C0241 归入 C 级 Intermediate）　The Office（求职面试·教育背景问答） |
+| 242 | [Learning The Piano（学钢琴）](Lesson-242-Learning-The-Piano.md) | Advanced（高级）　Global View（上钢琴课） |
+| 243 | [Talking to a Travel Agent（跟旅行代理人谈话）](Lesson-243-Talking-to-a-Travel-Agent.md) | Intermediate（中级）　The Weekend（在旅行社咨询并预订周末浪漫之旅） |
+| 244 | [Interview Skills 4 — Talking About Work Experience（面试技巧（四）：谈谈工作经历）](Lesson-244-Interview-Skills-4-Talking-About-Work-Experience.md) | Intermediate（中级，按 C 系列编号标注；讲解稿中主持人自称 elementary 难度）　The Office（求职面试·工作经历问答） |
+| 245 | [Getting A Subscription（办理杂志订阅）](Lesson-245-Getting-A-Subscription.md) | Intermediate（中级）　The Weekend（上门推销杂志订阅） |
+| 246 | [At The Train Station（在火车站）](Lesson-246-At-The-Train-Station.md) | Intermediate（中级）　Daily Life 日常生活（火车站窗口购票） |
+| 247 | [Interview Skills 5 — Discussing Reasons For Leaving Previous Position（面试技巧（五）：谈谈离职原因）](Lesson-247-Interview-Skills-5-Discussing-Reasons-For-Leaving-Previous-Position.md) | Intermediate（中级）　The Office（求职面试·解释为什么离开上一份工作） |
+| 248 | [Dinnerware（餐具）](Lesson-248-Dinnerware.md) | Intermediate（中级）　Daily Life 日常生活（夫妻/情侣晚饭前一起摆餐具） |
+| 249 | [Making A Sandwich（做三明治）](Lesson-249-Making-A-Sandwich.md) | Intermediate（中级）　The Weekend 周末生活（美食节目主持人教做三明治） |
+| 250 | [Interview Skills 6 – Describing One's Strengths（面试技巧 6：描述自己的优点）](Lesson-250-Interview-Skills-6-Describing-Ones-Strengths.md) | Intermediate（中级）　The Office（求职面试·描述个人优点） |
 
 ## 使用建议
 
