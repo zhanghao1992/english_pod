@@ -1,4 +1,4 @@
-# EnglishPod 1–150 学习资料
+# EnglishPod 1–200 学习资料
 
 面向 CET-4 水平的精读笔记，每课包含：对话原文 · 逐句对照翻译 · 核心生词短语（音标/用法/例句）· 重点句型 · 补充词汇 · 讲解拓展 · 小练习（附答案）· 学习建议。
 
@@ -154,6 +154,56 @@
 | 148 | [Paranoid（疑神疑鬼）](Lesson-148-Paranoid.md) | Intermediate（中级）　Daily Life 日常生活（朋友家中谈隐私与安全） |
 | 149 | [Moving（搬家）](Lesson-149-Moving.md) | Intermediate（中级）　Daily Life 日常生活（租约到期被迫搬家，请朋友帮忙照看宠物） |
 | 150 | [Bug Spray（驱蚊水）](Lesson-150-Bug-Spray.md) | Elementary（初级）　The Weekend 周末生活（被蚊子叮咬，朋友间打趣想"偏方"） |
+| 151 | [Darwin's Theory Of Evolution（达尔文的进化论）](Lesson-151-Darwins-Theory-Of-Evolution.md) | Advanced（高级；主持人开场明确说 "an advanced lesson"）　The University（大学生课间偶遇，争论达尔文进化论） |
+| 152 | [Cut It Out（住手，别闹了）](Lesson-152-Cut-It-Out.md) | Intermediate（中级）　The Office（同事之间闹矛盾 → 和解 → 约会） |
+| 153 | [Homesick（想家）](Lesson-153-Homesick.md) | Intermediate（中级；节目开场实际标注为 Upper-Intermediate 中高级）　Daily Life 日常生活（异乡过节想家，朋友劝慰并提议晚上出去玩） |
+| 154 | [Rock Band（摇滚乐队）](Lesson-154-Rock-Band.md) | Intermediate（中级）　The Weekend 周末生活（邀朋友来家里"试唱"） |
+| 155 | [Bachelor Party（婚前单身派对）](Lesson-155-Bachelor-Party.md) | Intermediate（中级）　The Weekend（情侣闲聊 · 婚礼前的单身派对） |
+| 156 | [The Weekend - Scary Story（周末特辑：恐怖故事）](Lesson-156-The-Weekend-Scary-Story.md) | Intermediate（中级，编号前缀 C0156）；但主持人开场明确这是 EnglishPod 第一节 Advanced Media（高级媒体） 课，词汇密度和叙事难度实际达 Upper-Intermediate/Advanced 水平。　The Weekend 周末系列——万圣节停电夜，妻子点起蜡烛，丈夫给她讲了一个"真实发生过"的姑婆闹鬼故事 |
+| 157 | [Trick Or Treat（不给糖就捣蛋）](Lesson-157-Trick-Or-Treat.md) | Elementary（初级）　The Weekend（万圣节挨家讨糖） |
+| 158 | [All Saints Day（诸圣节）](Lesson-158-All-Saints-Day.md) | Intermediate（中级）　Global View（文化漫谈：诸圣节与亡灵节） |
+| 159 | [Getting Flowers（买花道歉）](Lesson-159-Getting-Flowers.md) | Intermediate（中级；节目开场明确说 "an intermediate level lesson"）　Daily Life 日常生活（花店买花／道歉） |
+| 160 | [Global View – Health Insurance（环球视野：医疗保险）](Lesson-160-Global-View-Health-Insurance.md) | Intermediate（中级；主持人开场明确说 "an upper intermediate level lesson"，实际难度中高级）　Global View（社会话题：夫妻闲聊美国医疗保险，决定了解一下 HMO） |
+| 161 | [Computer Games（电脑游戏）](Lesson-161-Computer-Games.md) | Intermediate（中级，C 级）　Daily Life 日常生活（情侣因打游戏拌嘴） |
+| 162 | [Veteran's Day（退伍军人节）](Lesson-162-Veterans-Day.md) | Intermediate（中级，C0162；节目中主持人称本课词汇属 elementary 难度——内容是节日历史科普，语言本身不难）　Global View 环球视野（退伍军人节与一战停战日的历史） |
+| 163 | [Global View - Social Security（全球视角：社会保障）](Lesson-163-Global-View-Social-Security.md) | Intermediate（中级）　Global View 全球视角（看完纪录片后聊美国社保与退休储蓄） |
+| 164 | [Apology Letter（道歉信）](Lesson-164-Apology-Letter.md) | Intermediate（中级，C0164；但开场主持人明确说明这是一节 advanced media lesson，词汇与修辞实际为 Advanced 高级水平，建议按高级材料学习）　Daily Life 日常生活（当面朗读一封道歉信／情感独白） |
+| 165 | [Asking For A Loan（申请银行贷款）](Lesson-165-Asking-For-A-Loan.md) | Intermediate（中级，C 级）　Daily Life 日常生活（到银行咨询个人贷款） |
+| 166 | [Dr. Botox（肉毒医生）](Lesson-166-Dr-Botox.md) | Intermediate（中级）　Daily Life 日常生活（两个闺蜜争论要不要做整形手术） |
+| 167 | [Learning How To Drive（学开车）](Lesson-167-Learning-How-To-Drive.md) | Intermediate（中级，C 级）　Daily Life 日常生活（第一次上驾驶课） |
+| 168 | [Cooking A Thanksgiving Dinner（烹饪感恩节大餐）](Lesson-168-Cooking-A-Thanksgiving-Dinner.md) | Advanced（高级。编号前缀为 C，但主持人开场明确说 "an advanced media level lesson … the very highest of our levels"，故按高级处理；生词不难，难点在菜谱文体和文化背景）　The Weekend 周末生活（美食节目：感恩节火鸡 + 南瓜派教学） |
+| 169 | [Roller Coaster（过山车）](Lesson-169-Roller-Coaster.md) | Elementary（初级；编号 C0169 属 C 系，但主持人开场明确说 "a great elementary level lesson"，实际难度按初级处理）　The Weekend（周末全家去游乐园） |
+| 170 | [Wedding Doubts（婚礼疑云·新郎临阵退缩）](Lesson-170-Wedding-Doubts.md) | Intermediate（中级，C 级；对话俚语密集，含粗俗口语 *cut the crap*）　Daily Life 日常生活（婚礼当天新郎想逃婚，好朋友一番劝阻把他劝回） |
+| 171 | [Buying a Camera（买相机）](Lesson-171-Buying-a-Camera.md) | Intermediate（中级；节目开场主持人明确说明本课为 upper intermediate 中高级，相机专业术语较多）　The Weekend 周末生活（数码器材店买相机） |
+| 172 | [Dry Cleaners（干洗店）](Lesson-172-Dry-Cleaners.md) | Intermediate（中级；编号为 C 系，但主持人开场称其为 "an elementary lesson"，实际语言难度偏初级）　Daily Life 日常生活（在干洗店加急送洗衣服） |
+| 173 | [Preparing a Budget（制定家庭预算）](Lesson-173-Preparing-a-Budget.md) | Upper-Intermediate（中高级；PDF 标注 C/Intermediate，但节目开场主持人明确说 "an upper intermediate level lesson"）　The Office（理财顾问办公室：一对高收入夫妻咨询如何制定家庭预算） |
+| 174 | [Getting a Manicure（做美甲）](Lesson-174-Getting-a-Manicure.md) | Elementary（初级）。PDF 编号为 C0174（C 系列通常对应 Intermediate），但主持人开场明确说 "an elementary level lesson"，对话内容也确实简单，本笔记按初级处理并注明。　The Weekend 周末生活（夫妻闲聊 · 去美甲沙龙做指甲） |
+| 175 | [New Year's Resolution（新年决心）](Lesson-175-New-Years-Resolution.md) | Intermediate（中级，C 级）　Global View 环球视角（朋友间讨论新年计划与忙碌的生活方式） |
+| 176 | [Heating（冬天取暖）](Lesson-176-Heating.md) | Intermediate（中级）　Daily Life 日常生活（父女为开暖气争执） |
+| 177 | [Decorating a Christmas Tree（装饰圣诞树）](Lesson-177-Decorating-a-Christmas-Tree.md) | Intermediate（中级）　The Weekend（圣诞节全家布置圣诞树） |
+| 178 | [Finding the Perfect Present（寻找完美礼物）](Lesson-178-Finding-the-Perfect-Present.md) | Intermediate（中级）　Daily Life（圣诞节前夜，朋友紧急为母亲挑选礼物） |
+| 179 | [Silent Night（平安夜）](Lesson-179-Silent-Night.md) | Intermediate（中级）。本课是圣诞颂歌歌词精讲课，含大量古雅、宗教用法（*yon / thy / afar / saviour*），主持人逐行讲解，实际词汇难度接近中高级。　The Holiday Season（圣诞颂歌 *Silent Night* 逐句讲解） |
+| 180 | [Jingle Bells（铃儿响叮当）](Lesson-180-Jingle-Bells.md) | Elementary（初级）　The Weekend / Daily Life（圣诞节 · 学唱英文歌） |
+| 181 | [Christmas Day（圣诞节）](Lesson-181-Christmas-Day.md) | Intermediate（中级）　Daily Life（圣诞节清晨·孩子叫醒父母、全家准备圣诞大餐） |
+| 182 | [Boxing Day（节礼日）](Lesson-182-Boxing-Day.md) | Intermediate（中级）　Global View（节礼日午后，妻子忙着试穿圣诞礼物、丈夫看球赛，夫妻拌嘴） |
+| 183 | [Winter Clothes（冬天的衣服）](Lesson-183-Winter-Clothes.md) | Elementary（初级）。编号前缀 C 通常对应 Intermediate，但节目开场主持人明确说 "an elementary level lesson"，词汇与句型均为初级难度，故按初级标注。　Daily Life 日常生活（妈妈目送孩子上学前，一件接一件地给他添冬装） |
+| 184 | [Fresh Start（新年新开始）](Lesson-184-Fresh-Start.md) | Intermediate（中级；编号为 C0184，但主持人开场明确说这是一节 *elementary level* 课，实际语言难度偏初级）　Daily Life 日常生活（新年立志、朋友聊天） |
+| 185 | [Farm Animals（农场动物）](Lesson-185-Farm-Animals.md) | Elementary（初级；PDF 编号前缀为 C，但主持人开场明确说 "at the elementary level"，内容也属初级，按初级处理）　The Weekend 周末生活（农场初体验 / 城里人与乡下动物） |
+| 186 | [Business Plan（商业计划书）](Lesson-186-Business-Plan.md) | Upper-Intermediate（中高级；编号前缀为 C，主持人开场明确说 "an upper intermediate level lesson"）　The Office（员工赌气辞职想创业，朋友讲解商业计划书） |
+| 187 | [Going On A Diet（节食减肥）](Lesson-187-Going-On-A-Diet.md) | Intermediate（中级）　Daily Life 日常生活（朋友间聊减肥与健康饮食） |
+| 188 | [Asking For A Raise（要求加薪）](Lesson-188-Asking-For-A-Raise.md) | Intermediate（中级）　The Office（员工找老板谈加薪） |
+| 189 | [Buying A New Mobile Phone（买新手机）](Lesson-189-Buying-A-New-Mobile-Phone.md) | Intermediate（中级）　Daily Life 日常生活（手机店选购新手机） |
+| 190 | [Family Barbecue（家庭烧烤聚会）](Lesson-190-Family-Barbecue.md) | Elementary（初级；编号前缀 C 通常对应 Intermediate，但主持人开场明确说 "an elementary level lesson"，词汇与句式也确为初级，故以讲解稿为准）　The Weekend（筹备周末家庭烧烤） |
+| 191 | [Daylight Savings Time（夏令时）](Lesson-191-Daylight-Savings-Time.md) | Intermediate（中级）　Global View 环球视野 · 科普闲聊（夏令时与时区） |
+| 192 | [Natural Disasters（自然灾害）](Lesson-192-Natural-Disasters.md) | Intermediate（中级；新闻播报题材，灾害词汇密度大，实际难度偏中高级）　Global View 全球观察（电视台国际天气与自然灾害特别报道） |
+| 193 | [Building Your Dream Home（建造你的梦想之家）](Lesson-193-Building-Your-Dream-Home.md) | Intermediate（中级，编号 C0193；主持人开场明确说明本课按 Advanced 高级难度讲解，建筑类词汇密集）　Daily Life 日常生活（夫妻接受采访，畅想建房风格） |
+| 194 | [Stir Fry（中式炒菜）](Lesson-194-Stir-Fry.md) | Intermediate（中级）　The Weekend（朋友聊吃的／中式炒菜之争） |
+| 195 | [Job Hunting（找工作）](Lesson-195-Job-Hunting.md) | Intermediate（中级）　Global View（少年畅想求职：投简历、找加油站兼职） |
+| 196 | [Going To The Tailor（去裁缝店定做西装）](Lesson-196-Going-To-The-Tailor.md) | Intermediate（中级）　Daily Life（在布料店/裁缝店量体定制西装） |
+| 197 | [Calling 911（拨打 911 报警电话）](Lesson-197-Calling-911.md) | Intermediate（中级）　Global View（美国小学课堂：紧急救援职业与报警电话） |
+| 198 | [Applying CPR（实施心肺复苏术）](Lesson-198-Applying-CPR.md) | Intermediate（中级）　Daily Life 日常生活（CPR 急救培训课） |
+| 199 | [Global View – Learning About First Aid（环球视野：学习急救）](Lesson-199-Global-View-Learning-About-First-Aid.md) | Intermediate（中级）　Global View（健康话题：朋友聊在红十字会上急救课、随急救人员出勤的见闻） |
+| 200 | [Junk Food（垃圾食品）](Lesson-200-Junk-Food.md) | Intermediate（中级）　Daily Life 日常生活（朋友间争论健康饮食） |
 
 ## 使用建议
 
