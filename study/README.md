@@ -1,4 +1,4 @@
-# EnglishPod 1–300 学习资料
+# EnglishPod 1–365 学习资料
 
 面向 CET-4 水平的精读笔记，每课包含：对话原文 · 逐句对照翻译 · 核心生词短语（音标/用法/例句）· 重点句型 · 补充词汇 · 讲解拓展 · 小练习（附答案）· 学习建议。
 
@@ -305,6 +305,72 @@
 | 298 | [Presentation Series 10 – The Q and A Session（演讲系列十：问答环节）](Lesson-298-Presentation-Series-10-The-Q-and-A-Session.md) | Intermediate（中级）　The Office（商务演讲：演示结束后的观众提问环节） |
 | 299 | [Returning A Product（退货）](Lesson-299-Returning-A-Product.md) | Intermediate（中级）　Daily Life 日常生活（商店退货） |
 | 300 | [Online Dating（网上约会）](Lesson-300-Online-Dating.md) | Intermediate（中级）　Daily Life 日常生活（网上交友约会） |
+
+| 301 | [The Weekend - Vampires（周末特辑：吸血鬼）](Lesson-301-The-Weekend-Vampires.md) | Intermediate（中级）　The Weekend 周末系列——两个朋友相约晚上看电影，为《暮光之城》（Twilight）到底好不好看展开一场"粉丝 vs 黑粉"的争论 |
+| 302 | [Global View - Phobias（环球视角：聊聊恐惧症）](Lesson-302-Global-View-Phobias.md) | Intermediate（中级，C 系列默认）　Global View（朋友间聊各自的恐惧症） |
+| 303 | [Mexican Food（墨西哥美食）](Lesson-303-Mexican-Food.md) | Intermediate（中级）　Daily Life（墨西哥餐厅点餐） |
+| 304 | [Neat Freak（洁癖狂）](Lesson-304-Neat-Freak.md) | Intermediate（中级，C 系列）　Daily Life 日常生活（公共洗手间里，洁癖女孩 Helen 忍不住动手打扫，朋友看得目瞪口呆） |
+| 305 | [The Weekend - Bowling（周末特辑：打保龄球）](Lesson-305-The-Weekend-Bowling.md) | Intermediate（中级，C 系列默认中级）　The Weekend 周末系列——保龄球馆，老手朋友带新手打第一局，边打边讲规则 |
+| 306 | [Pick Up Lines（搭讪开场白）](Lesson-306-Pick-Up-Lines.md) | Intermediate（中级）　The Weekend 周末生活（朋友怂恿腼腆男生明晚去酒吧，现场教他几句搭讪开场白） |
+| 307 | [Showing Interest（寒暄中表现出兴趣）](Lesson-307-Showing-Interest.md) | Intermediate（中级；Small Talk 系列第 1 集，主持人口播难度不高，适合 CET-4 精听）　The Office（Small Talk 系列：朋友介绍认识、初次见面寒暄） |
+| 308 | [Boxers and Briefs（平角裤与三角裤）](Lesson-308-Boxers-and-Briefs.md) | Intermediate（中级）　Daily Life 日常生活（洗衣机里的"内衣谜案"） |
+| 309 | [Global View – Indian Food（环球视野：印度美食）](Lesson-309-Global-View-Indian-Food.md) | Intermediate（中级；C 系列默认）　Global View（饮食文化：朋友去印度餐厅前聊点菜） |
+| 310 | [Small Talk 2（寒暄闲聊·下）](Lesson-310-Small-Talk-2.md) | Intermediate（中级，C 系列；Small Talk 系列第 2 集，主持人口播难度不高，适合 CET-4 精听）　The Office（Small Talk 系列：聚会场合 James 把朋友 Michelle 介绍给巴西同事 Maria，三人聊职业、聊上海并顺势约饭） |
+| 311 | [Sorry I'm Late（抱歉我迟到了）](Lesson-311-Sorry-Im-Late.md) | Intermediate（中级，C 系列默认中级）　The Office 办公室（开会迟到、连连道歉的闹剧） |
+| 312 | [The Weekend - Ordering Drinks（周末特辑：酒吧点酒）](Lesson-312-The-Weekend-Ordering-Drinks.md) | Intermediate（中级，C 系列默认中级）　The Weekend 周末系列——酒吧吧台，朋友嫌同伴点的鸡尾酒"太娘、太淡"，直接替他点了烈酒 |
+| 313 | [Small Talk 3（老友重逢寒暄）](Lesson-313-Small-Talk-3.md) | Intermediate（中级；Small Talk 系列第 3 集，主持人口播提示难度不大，适合 CET-4 精听跟读）　The Office（Small Talk 系列：两位老朋友久别重逢、寒暄近况） |
+| 314 | [Making A Collect Call（打对方付费电话）](Lesson-314-Making-A-Collect-Call.md) | Intermediate（中级，C 系列默认中级）　Daily Life 日常生活（用公用电话打对方付费电话） |
+| 315 | [Sending A Quote Via Email（通过邮件发送报价）](Lesson-315-Sending-A-Quote-Via-Email.md) | Intermediate（中级，C 系列默认中级）　The Office 办公室——同事帮忙把关一封商务报价邮件，在"太正式"与"太随意"之间找到专业又礼貌的措辞 |
+| 316 | [Small Talk 4 · Discussing Recent Work Events（寒暄·聊聊最近的工作）](Lesson-316-Small-Talk-4-Discussing-Recent-Work-Events.md) | Intermediate（中级，C 系列；Small Talk 系列第 4 集，主持人口播难度不高，适合 CET-4 精听）　The Office（Small Talk 系列：Jeremy 和 Michelle 在复印机旁偶遇，谦让之后简短寒暄，聊起 Lawson 合同有望在周三签约，道别并互致问候） |
+| 317 | [First Paycheck（第一张工资单）](Lesson-317-First-Paycheck.md) | Intermediate（中级；C 系列默认中级，主持人在节目开头口播为 upper-intermediate 中高级——税务词汇和缩略语较密集）　The Office（新员工拿着第一张美国工资单，请同事讲解各项扣税） |
+| 318 | [Global View - Allergies（环球视角：过敏）](Lesson-318-Global-View-Allergies.md) | Intermediate（中级，C 系列默认）　Global View（办公室里排查过敏原） |
+| 319 | [Small Talk 5（与陌生人的简短寒暄）](Lesson-319-Small-Talk-5.md) | Intermediate（中级，C 系列；Small Talk 系列第 5 集，对话生活化、句式礼貌，适合 CET-4 精听跟读）　The Office（Small Talk 系列：午休时间，Michelle 冒雨跑进一家餐饮店排队，一位陌生老先生主动让她排到前面，并请她推荐菜品） |
+| 320 | [Global View - Taking The GMAT（环球视角：考 GMAT）](Lesson-320-Global-View-Taking-The-GMAT.md) | Intermediate（中级，C 系列默认）　Global View（同事聊读 MBA 与备考 GMAT） |
+| 321 | [Global View – Thai Food（环球视野：泰国美食）](Lesson-321-Global-View-Thai-Food.md) | Intermediate（中级；C 系列默认）　Global View（饮食文化：朋友品尝自制泰国菜） |
+| 322 | [Small Talk 6 · Talking About Yourself（寒暄·聊聊你自己）](Lesson-322-Small-Talk-6-Talking-About-Yourself.md) | Intermediate（中级，C 系列；Small Talk 系列第 6 集，主持人口播难度不高、对话生活化，适合 CET-4 精听跟读）　The Office（Small Talk 系列：Michelle 在公共交通工具上向邻座陌生人询问空位，两人从上海聊到各自的老家与现居地） |
+| 323 | [Cancelled Flight（航班取消）](Lesson-323-Cancelled-Flight.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（机场值机柜台 · 航班取消） |
+| 324 | [Global View - Thanksgiving Dinner（环球视角：感恩节家宴）](Lesson-324-Global-View-Thanksgiving-Dinner.md) | Intermediate（中级，C 系列默认）　Global View（闲聊感恩节的由来与家宴菜肴） |
+| 325 | [Small Talk 7 · Talking About A Trip（寒暄·聊聊旅行）](Lesson-325-Small-Talk-7-Talking-About-A-Trip.md) | Intermediate（中级，C 系列；Small Talk 系列第 7 集，主持人说明这是熟人之间简短随意的寒暄，语言不难，适合 CET-4 精听跟读）　The Office（Small Talk 系列：Jim 和 Michelle 在同一栋楼上班，电梯里偶遇；Jim 刚从西班牙度假回来，两人聊起这趟旅行，Jim 推荐 Michelle 也去，到楼层后礼貌道别） |
+| 326 | [Report Card（成绩单）](Lesson-326-Report-Card.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（爸爸妈妈一起看儿子 Jimmy 寄来的成绩单） |
+| 327 | [Buying A Pair Of Jeans（买一条牛仔裤）](Lesson-327-Buying-A-Pair-Of-Jeans.md) | Intermediate（中级，C 系列默认中级）　Daily Life 日常生活（服装店试牛仔裤） |
+| 328 | [Small Talk 8 · Talking About Work（寒暄·聊聊工作）](Lesson-328-Small-Talk-8-Talking-About-Work.md) | Intermediate（中级，C 系列；Small Talk 系列第 8 集，主持人口播难度不高，适合 CET-4 精听跟读）　The Office（Small Talk 系列：上司 Mr. Campbell 偶遇员工 Michelle，先寒暄问候家人，再聊季度业绩、广告预算，最后约好一起拼车去会场） |
+| 329 | [Going To The Bakery（去面包店）](Lesson-329-Going-To-The-Bakery.md) | Intermediate（中级，C 系列默认）　Daily Life（面包店购物） |
+| 330 | [The Weekend - Fortune Telling（周末特辑：算命）](Lesson-330-The-Weekend-Fortune-Telling.md) | Intermediate（中级，C 系列默认中级；主持人开场口播为 upper intermediate）　The Weekend 周末系列——两个朋友看报上"灵媒预约排到一年后"的报道，一个信得认真，一个直说算命全是骗人的把戏，最后决定为了好玩去算一卦 |
+| 331 | [Small Talk 9 · Talking About The Weather（寒暄·聊天气）](Lesson-331-Small-Talk-9-Talking-About-The-Weather.md) | Intermediate（中级，C 系列；Small Talk 系列第 9 集。主持人说这集比前几集稍难——"a little bit more difficult"，但话题生活化、句子不长，适合 CET-4 精听跟读）　The Office（Small Talk 系列：下雨天，Melissa 在出租车里招呼同事 Michelle 上车，两人要先去酒店接 Mr. Campbell 再去开会；途中聊起结婚和上海的生活成本） |
+| 332 | [Setting Up Your Voicemail Message（设置语音信箱留言）](Lesson-332-Setting-Up-Your-Voicemail-Message.md) | Intermediate（中级，C 系列默认中级）　Daily Life 日常生活（请朋友帮忙录制手机语音信箱留言） |
+| 333 | [Global View - Human Anatomy（环球视角：人体解剖）](Lesson-333-Global-View-Human-Anatomy.md) | Intermediate（中级，C 系列默认）　Global View（解剖课复习人体器官） |
+| 334 | [Small Talk 10 · General Talk（寒暄·泛泛闲聊）](Lesson-334-Small-Talk-10-General-Talk.md) | Intermediate（中级，C 系列；Small Talk 系列第 10 集，也是该系列收官篇。主持人定位为 casual 的简短寒暄，语言不难，适合 CET-4 精听跟读）　The Office（Small Talk 系列：下雨天，Michelle 和 Melissa 接到老板 Mr. Campbell，三人聊天气、出差和去北京过春节、明年游伦敦的度假计划） |
+| 335 | [The Weekend - Going to the Playground（周末特辑：带娃去游乐场）](Lesson-335-The-Weekend-Going-To-The-Playground.md) | Intermediate（中级，C 系列默认中级）　The Weekend 周末系列——爸爸带儿子从公园游乐场回来，向妈妈汇报孩子玩了哪些设施 |
+| 336 | [Christmas Traditions（圣诞节传统）](Lesson-336-Christmas-Traditions.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（平安夜深夜，爸爸劝兴奋的孩子回房睡觉） |
+| 337 | [Global View - The Night Before Christmas（圣诞前夜）](Lesson-337-Global-View-The-Night-Before-Christmas.md) | Intermediate（中级，C 系列默认；主持人口播标明为 advanced 高级·圣诞诗歌特辑）　Global View（圣诞前夜，父亲讲述圣诞老人驾雪橇来访的经典叙事诗） |
+| 338 | [Having Leftovers（吃剩菜）](Lesson-338-Having-Leftovers.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（室友用昨晚剩的火鸡肉做三明治当晚饭，两人聊剩菜安全与再加热） |
+| 339 | [Global View - Parent Teacher Conference（环球视角：家长会）](Lesson-339-Global-View-Parent-Teacher-Conference.md) | Intermediate（中级，C 系列默认）　Global View 环球视角（美国校园：老师与家长一对一面谈） |
+| 340 | [Global View - Happy New Year!（环球视角：新年快乐！）](Lesson-340-Global-View-Happy-New-Year.md) | Intermediate（中级，C 系列默认）　Global View（跨年夜朋友闲聊新年决心与时代广场倒计时） |
+| 341 | [Baking A Cake（烤蛋糕）](Lesson-341-Baking-A-Cake.md) | Intermediate（中级，C 系列默认）　Daily Life（在厨房学烤蛋糕） |
+| 342 | [Global View - At The Library（环球视角：在图书馆）](Lesson-342-Global-View-At-The-Library.md) | Intermediate（中级，C 系列默认）　Global View（在图书馆找书、办借书证、借书） |
+| 343 | [Seafood Dinner（海鲜晚餐）](Lesson-343-Seafood-Dinner.md) | Intermediate（中级）　Daily Life（高档海鲜餐厅点餐） |
+| 344 | [Global View - Booking A Hotel Room（环球视角：预订酒店房间）](Lesson-344-Global-View-Booking-A-Hotel-Room.md) | Intermediate（中级，C 系列默认）　Global View 环球视角（打国际长途电话预订酒店房间） |
+| 345 | [Working Out（健身锻炼）](Lesson-345-Working-Out.md) | Intermediate（中级；C 系列默认 Intermediate）　Daily Life 日常生活（下班后邀约看电影被拒，聊私人健身教练） |
+| 346 | [Global View - All About Wines（环球视角：聊聊葡萄酒）](Lesson-346-Global-View-All-About-Wines.md) | Intermediate（中级，C 系列默认；主持人口播明确说明 *This is an advanced lesson*，词汇难度按高级对待）　Global View（在葡萄酒店请店员推荐配寿司的酒） |
+| 347 | [Global View - Immigration and Customs（环球视角：入境与海关）](Lesson-347-Global-View-Immigration-and-Customs.md) | Intermediate（中级，C 系列默认）　Global View（机场入境审查：出示护照、回答问询、海关申报） |
+| 348 | [The Weekend - Talking About Skincare（周末特辑：聊聊护肤）](Lesson-348-The-Weekend-Talking-About-Skincare.md) | Intermediate（中级，C 系列默认中级）　The Weekend 周末系列——朋友相约去美容水疗馆（beauty spa），聊面部护理和男士护肤 |
+| 349 | [Global View - Chinese Medicine（环球视角：中医）](Lesson-349-Global-View-Chinese-Medicine.md) | Intermediate（中级，C 系列默认；主持人口播称本课为 "a very advanced lesson"，医学词汇密度偏高）　Global View（朋友间讨论针灸、刮痧、拔罐等中医疗法） |
+| 350 | [Talking About Relatives（聊亲戚）](Lesson-350-Talking-About-Relatives.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（周末闲聊一场家庭聚会，顺便理清各种亲戚称谓） |
+| 351 | [Vaccinations（接种疫苗）](Lesson-351-Vaccinations.md) | Intermediate（中级；C 系列默认 Intermediate）　Daily Life 日常生活（妈妈带宝宝看医生接种疫苗，顺便咨询自己的破伤风加强针） |
+| 352 | [Global View - The 7 Wonders Of The World（环球视角：世界新七大奇迹）](Lesson-352-Global-View-The-7-Wonders-Of-The-World.md) | Intermediate（中级，C 系列默认）　Global View（朋友看新闻，盘点"新世界七大奇迹"） |
+| 353 | [Global View - College Life（环球视角：大学生活）](Lesson-353-Global-View-College-Life.md) | Intermediate（中级，C 系列默认；主持人口播本课为 Advanced 高级）　Global View 环球视角（校园偶遇，闲聊近况与专业） |
+| 354 | [Global View - Homeschooling（环球视角：在家上学）](Lesson-354-Global-View-Homeschooling.md) | Intermediate（中级，C 系列默认）　Global View（情侣讨论未来要不要让孩子在家上学） |
+| 355 | [Lending Money（借钱）](Lesson-355-Lending-Money.md) | Intermediate（中级；C 系列默认 Intermediate）　Daily Life 日常生活（朋友之间开口借五美元，出借方要求拿滑板作抵押） |
+| 356 | [Coins and Money（硬币与钱币）](Lesson-356-Coins-and-Money.md) | Intermediate（中级；C 系列默认 Intermediate；主持人口播难度较低，属实用生活词汇课）　Daily Life 日常生活（打碎存钱罐后整理硬币，准备去银行换成纸币） |
+| 357 | [Making A Dinner Reservation（电话预订晚餐）](Lesson-357-Making-A-Dinner-Reservation.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（打电话给餐厅预订晚餐） |
+| 358 | [Text Me（给我发短信）](Lesson-358-Text-Me.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（朋友碰面后对质：昨晚为什么没回短信） |
+| 359 | [Global View - E-mail Scam（环球视角：电子邮件诈骗）](Lesson-359-Global-View-Email-Scam.md) | Intermediate（中级，C 系列默认）　Global View（两位朋友讨论一封疑似诈骗的紧急邮件） |
+| 360 | [Global View - Urban Legends（都市传说）](Lesson-360-Global-View-Urban-Legends.md) | Intermediate（中级，C 系列默认）　Global View（朋友闲聊：酒店丢器官、歌曲倒放、肯德基无头鸡等都市传说） |
+| 361 | [Fast Food（快餐——健康派与垃圾食品派之争）](Lesson-361-Fast-Food.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（两个朋友商量点外卖，一个无辣不欢、顿顿快餐，一个苦口婆心劝对方注意健康） |
+| 362 | [What Mood Are You In?（你现在什么心情？）](Lesson-362-What-Mood-Are-You-In.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（朋友察觉对方神色不对，关心询问，聊到药物和荷尔蒙引起的情绪波动） |
+| 363 | [Living With Your Parents（和父母同住）](Lesson-363-Living-With-Your-Parents.md) | Intermediate（中级，C 系列默认）　Daily Life 日常生活（两位朋友闲聊：男主角被女友分手，原因是成年后仍依赖父母） |
+| 364 | [Hiring Help（雇家政帮手）](Lesson-364-Hiring-Help.md) | Intermediate（中级；C 系列默认 Intermediate）　Daily Life 日常生活（请朋友帮忙拟一则报纸分类广告，招聘钟点家政） |
+| 365 | [Household Chores（家务活）](Lesson-365-Household-Chores.md) | Intermediate（中级；C 系列默认 Intermediate）　Daily Life 日常生活（父亲命令正打游戏的儿子放下手柄、收拾房间并干家务） |
 
 ## 使用建议
 
