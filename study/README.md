@@ -1,4 +1,4 @@
-# EnglishPod 1–250 学习资料
+# EnglishPod 1–300 学习资料
 
 面向 CET-4 水平的精读笔记，每课包含：对话原文 · 逐句对照翻译 · 核心生词短语（音标/用法/例句）· 重点句型 · 补充词汇 · 讲解拓展 · 小练习（附答案）· 学习建议。
 
@@ -254,6 +254,57 @@
 | 248 | [Dinnerware（餐具）](Lesson-248-Dinnerware.md) | Intermediate（中级）　Daily Life 日常生活（夫妻/情侣晚饭前一起摆餐具） |
 | 249 | [Making A Sandwich（做三明治）](Lesson-249-Making-A-Sandwich.md) | Intermediate（中级）　The Weekend 周末生活（美食节目主持人教做三明治） |
 | 250 | [Interview Skills 6 – Describing One's Strengths（面试技巧 6：描述自己的优点）](Lesson-250-Interview-Skills-6-Describing-Ones-Strengths.md) | Intermediate（中级）　The Office（求职面试·描述个人优点） |
+
+| 251 | [Buying Makeup（买化妆品）](Lesson-251-Buying-Makeup.md) | Intermediate（中级）　The Weekend 周末生活（情侣逛化妆品店拌嘴） |
+| 252 | [Global View – Contraceptives（环球视野：避孕用品）](Lesson-252-Global-View-Contraceptives.md) | Intermediate（中级）　Global View（中学性教育课堂：老师 Miss Carlton 开讲避孕与性病防护，男生 Jason 频频举手提问） |
+| 253 | [Interview Skills 7 – Describing One's Weaknesses（面试技巧 7：描述自己的弱点）](Lesson-253-Interview-Skills-7-Describing-Ones-Weaknesses.md) | Intermediate（中级；主持人说明本系列按 elementary 难度讲解）　The Office（求职面试·描述个人弱点） |
+| 254 | [Making Breakfast（做早餐）](Lesson-254-Making-Breakfast.md) | Elementary（初级；C 系列通常为 Intermediate，但主持人在本期开场明确说 "an elementary level lesson"，故标注为初级）　The Weekend（周末起床晚了，做一顿丰盛的早午餐） |
+| 255 | [The Miracle Of Life（生命的奇迹）](Lesson-255-The-Miracle-Of-Life.md) | Intermediate（中级）——C 系列默认中级；主持人在节目中明确称本课为 advanced（医学术语密集，难度偏高）　Global View（美国中学生理卫生课：生命是如何开始的） |
+| 256 | [Interview Skills 8 – Discussing Salary and Benefits（面试技巧 8：讨论薪资与福利）](Lesson-256-Interview-Skills-8-Discussing-Salary-and-Benefits.md) | Intermediate（中级）　The Office（求职面试·讨论薪资福利） |
+| 257 | [The World Cup（世界杯）](Lesson-257-The-World-Cup.md) | Intermediate（中级）　Global View（朋友聊世界杯） |
+| 258 | [You're Grounded!（你被禁足了！）](Lesson-258-Youre-Grounded.md) | Intermediate（中级）　Daily Life 日常生活（儿子深夜超过门禁回家，被妈妈处罚） |
+| 259 | [Interview Skills 9 – Asking For Information About The Position（面试技巧 9：询问职位信息）](Lesson-259-Interview-Skills-9-Asking-For-Information-About-The-Position.md) | Intermediate（中级）　The Office（求职面试·向雇主提问） |
+| 260 | [Guns（枪支）](Lesson-260-Guns.md) | Intermediate（中级）　The Weekend（射击场打枪） |
+| 261 | [Describing Someone's Face（描述一个人的长相）](Lesson-261-Describing-Someones-Face.md) | Intermediate（中级）　Daily Life 日常生活（朋友之间玩"猜长相"游戏） |
+| 262 | [Concluding the Interview（面试收尾）](Lesson-262-Concluding-The-Interview.md) | Intermediate（中级）　The Office（面试结束、礼貌道别） |
+| 263 | [Nationalities（国籍）](Lesson-263-Nationalities.md) | Intermediate（中级）　Global View（留学生聊班级国籍构成） |
+| 264 | [Toothache（牙痛看牙医）](Lesson-264-Toothache.md) | Intermediate（中级）　Daily Life 日常生活（看牙医） |
+| 265 | [Pest Control（灭虫服务）](Lesson-265-Pest-Control.md) | Elementary（初级）（主持人在节目中明确标注为 elementary level）　The Weekend（请灭虫公司上门） |
+| 266 | [Weather Report（天气预报）](Lesson-266-Weather-Report.md) | Intermediate（中级）　Daily Life（电视新闻后的天气预报） |
+| 267 | [Making A Bank Transfer（办理银行转账）](Lesson-267-Making-A-Bank-Transfer.md) | Intermediate（中级，节目主持人明确标注 intermediate）　Daily Life（在银行办理电汇） |
+| 268 | [Purchasing Manager（采购经理）](Lesson-268-Purchasing-Manager.md) | Upper-Intermediate（中高级；C 系列通常为 Intermediate，本课主持人开场明确说 "It's an upper intermediate"）　The Office 办公室（采购经理拜访供应商，洽谈手机摄像头订单） |
+| 269 | [Marketing Plan（营销方案）](Lesson-269-Marketing-Plan.md) | Upper-Intermediate（中高级；主持人在节目中明确标注 upper intermediate）　The Office（公司会议室讨论营销策略） |
+| 270 | [Buying A Suit（买西装）](Lesson-270-Buying-A-Suit.md) | Elementary（初级）（主持人在讲解中明确说 "an elementary level lesson"；C 系列默认 Intermediate，本课以主持人口径为准）　Daily Life 日常生活（裁缝店/男装店量身定做西装） |
+| 271 | [Presentation Series 1 – The Overview and the Agenda（演讲系列一：概述与议程）](Lesson-271-Presentation-Series-1-The-Overview-and-the-Agenda.md) | Intermediate（中级）　The Office（商务演讲：开场介绍与议程说明） |
+| 272 | [Getting A Nanny（请个保姆）](Lesson-272-Getting-A-Nanny.md) | Intermediate（中级）　Daily Life（朋友闲聊 / 雇保姆） |
+| 273 | [The Zodiac and Horoscopes（星座与占星运势）](Lesson-273-The-Zodiac-and-Horoscopes.md) | Intermediate（中级）　The Weekend（闺蜜聊星座运势） |
+| 274 | [Presentation Series 2 – Talking about Numbers, Charts and Graphs（演示系列 2：谈数字与图表）](Lesson-274-Presentation-Series-2-Talking-About-Numbers-Charts-And-Graphs.md) | Intermediate（中级，C 系列）　The Office（商务演示：用图表讲市场数据） |
+| 275 | [Kitchen Appliances（厨房电器）](Lesson-275-Kitchen-Appliances.md) | Elementary（初级；C 系列编号，主持人在节目开场明确说这是一堂 elementary level 课程）　Daily Life 日常生活（情侣/室友网购厨房电器） |
+| 276 | [Telephone Services（电话服务）](Lesson-276-Telephone-Services.md) | Elementary（初级，主持人在节目中明确说明）　Daily Life 日常生活（给电信公司客服打电话开通手机服务） |
+| 277 | [Making Comparisons（做比较）](Lesson-277-Making-Comparisons.md) | Intermediate（中级，C 系列）　The Office（产品演示会：新款笔记本电脑对比竞品） |
+| 278 | [At The Car Dealership（在汽车经销店买车）](Lesson-278-At-The-Car-Dealership.md) | Intermediate（中级）　Global View · At The Car Dealership（在车行看车、谈配置、谈付款） |
+| 279 | [Drugs（毒品）](Lesson-279-Drugs.md) | Intermediate（中级）　Global View（街头毒品交易 / 便衣警察抓捕） |
+| 280 | [Discussing the Competition（讨论竞争格局）](Lesson-280-Discussing-the-Competition.md) | Intermediate（中级）　The Office（英文演讲系列 4：产品发布会上对比竞品） |
+| 281 | [Breaking Up（分手）](Lesson-281-Breaking-Up.md) | Intermediate（中级）　The Weekend（闺蜜电话倾诉分手） |
+| 282 | [Physics（物理学）](Lesson-282-Physics.md) | Advanced（高级；C 系列编号默认 Intermediate，但主持人开场明确说 "an advanced level lesson"，本课从讲解稿标注）　Global View（大学物理导论课·第一节课课程介绍） |
+| 283 | [Presentation Series 5 – Deferring Questions（演讲系列五：推迟回答提问）](Lesson-283-Presentation-Series-5-Deferring-Questions.md) | Intermediate（中级）　The Office（商务演讲：礼貌地推迟回答观众提问） |
+| 284 | [Tune Up（给车做保养）](Lesson-284-Tune-Up.md) | Intermediate（中级）　Daily Life（修车行保养） |
+| 285 | [Handyman（杂务工/万能维修工）](Lesson-285-Handyman.md) | Elementary（初级；C 系列通常为 Intermediate，但主持人在讲解开场明确说今天是 an elementary level lesson，故标注初级）　Daily Life 日常生活（办公室设施故障、叫维修工） |
+| 286 | [Presentation Series 6 – Addressing the Audience（演讲系列六：面向听众）](Lesson-286-Presentation-Series-6-Addressing-the-Audience.md) | Intermediate（中级）　The Office（商务演讲：发布营销活动、向听众提问并揭幕广告） |
+| 287 | [High School Reunion（高中同学聚会）](Lesson-287-High-School-Reunion.md) | Intermediate（中级，C 系列；节目主持人口播标注为 Elementary）　Daily Life 日常生活（同学聚会上的寒暄叙旧） |
+| 288 | [Getting A Tattoo（去纹身）](Lesson-288-Getting-A-Tattoo.md) | Intermediate（中级；C 系列默认中级，主持人开场明确标注为 Elementary 初级）　The Weekend（朋友间讨论要不要纹身） |
+| 289 | [Handling Technical Problems（处理技术故障）](Lesson-289-Handling-Technical-Problems.md) | Intermediate（中级，C 系列）　The Office（演示系列第 7 集：投影出故障时临场救场） |
+| 290 | [Buying Jewelery（选购珠宝首饰）](Lesson-290-Buying-Jewelery.md) | Intermediate（中级，C 系列）　The Weekend（珠宝店里挑选五周年纪念礼物） |
+| 291 | [Ordering Chinese Food（点中餐）](Lesson-291-Ordering-Chinese-Food.md) | Intermediate（中级）　Daily Life（在美式中餐馆点菜） |
+| 292 | [Common Presentation Mistakes（演示常见失误）](Lesson-292-Common-Presentation-Mistakes.md) | Intermediate（中级，C 系列）　The Office（演示系列第 8 集：演讲跑题、忘词、答不出提问、还拿错了文件） |
+| 293 | [Cheese Lovers（奶酪爱好者）](Lesson-293-Cheese-Lovers.md) | Advanced（高级，Advanced Media）　Advanced Media（美食科普讲座：奶酪的分类与食用） |
+| 294 | [Picking A University（挑选大学）](Lesson-294-Picking-A-University.md) | Intermediate（中级）　Daily Life 日常生活（教育展上咨询招生学校） |
+| 295 | [Presentation Series 9 – Summary and Conclusion（演讲系列九：总结与收尾）](Lesson-295-Presentation-Series-9-Summary-and-Conclusion.md) | Intermediate（中级）　The Office（商务演讲：回顾要点、展望未来、金句收尾并过渡到问答） |
+| 296 | [Vegan Or Vegetarian（纯素主义者还是素食主义者？）](Lesson-296-Vegan-Or-Vegetarian.md) | Intermediate（中级）　Global View（朋友约饭，聊素食/纯素饮食） |
+| 297 | [Ordering At An Italian Restaurant（在意大利餐厅点餐）](Lesson-297-Ordering-At-An-Italian-Restaurant.md) | Intermediate（中级）　The Weekend（意大利餐厅点餐） |
+| 298 | [Presentation Series 10 – The Q and A Session（演讲系列十：问答环节）](Lesson-298-Presentation-Series-10-The-Q-and-A-Session.md) | Intermediate（中级）　The Office（商务演讲：演示结束后的观众提问环节） |
+| 299 | [Returning A Product（退货）](Lesson-299-Returning-A-Product.md) | Intermediate（中级）　Daily Life 日常生活（商店退货） |
+| 300 | [Online Dating（网上约会）](Lesson-300-Online-Dating.md) | Intermediate（中级）　Daily Life 日常生活（网上交友约会） |
 
 ## 使用建议
 
